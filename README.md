@@ -1,5 +1,6 @@
 # twiiter_register_bot
 # twiiter注册机(推特注册机)
+twiiter注册机(推特注册机) twiiter_register_bot
 twiiter_register_bot,  Automatic account registration
 
 
